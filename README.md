@@ -28,7 +28,8 @@ Our Power BI journey wasn't just about the data; it was about its impact. We gai
 
 This project was a testament to the transformative power of data in HR. We learned valuable lessons – the importance of data preparation, the art of visual storytelling, and the immense power of Power BI in creating interactive dashboards. These skills are essential for any organization looking to optimize its workforce, enhance productivity, and create a thriving work environment.
 
-**For Dashboard : **
+**For Dashboard:**
+
 https://app.powerbi.com/view?r=eyJrIjoiMTNhMmIzZjYtNDk1MS00Yjk5LTk5MGYtMmVkZmVmMWIyZmI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
 
 ![HR Analytics Presence Insights](https://github.com/AjayDimri/HR-Analytics-Presence-Insights/assets/169275284/0729897d-1f8a-4ffb-b6fb-d718f15a71e9)
